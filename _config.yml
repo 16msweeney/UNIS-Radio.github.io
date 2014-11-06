@@ -1,9 +1,9 @@
 # Site settings
 title: UNIS Radio Club
-email: UNISRadio@PlaceHolder.com
-description: "Contact WebMasters(s): Andrei Aldea (16aaldea@unis.org), Timothy Cargan (15tcargan@unis.org)"
+email: radio@unis.org
+description: "UNIS Radio"
 baseurl: ""
-url: "http://UNISRadio.com"
+url: "http://radio.unis.org"
 twitter_username: RadioUNIS
 github_username: UNIS-Radio/UNIS-Radio.github.io
 
