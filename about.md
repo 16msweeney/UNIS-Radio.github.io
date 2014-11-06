@@ -8,10 +8,10 @@ UNIS Radio is a News Centric Radio Broadcast ran by students from the United Nat
 
 For questions or other inquiries email us: radio@unis.org
 
-##President:## Michael Sweeney
+**President:** Michael Sweeney
 
-##Vice-President:## Andrei Aldea
+**Vice-President:** Andrei Aldea
 
-##The Voice:## Nahnsu Dawkins
+**The Voice:**Nahnsu Dawkins
 
-##WebMaster:## Timothy R. Cargan
+**WebMaster:** Timothy R. Cargan
