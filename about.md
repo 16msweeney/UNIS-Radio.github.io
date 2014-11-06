@@ -12,6 +12,6 @@ For questions or other inquiries email us: radio@unis.org
 
 **Vice-President:** Andrei Aldea
 
-**The Voice:**Nahnsu Dawkins
+**The Voice:** Nahnsu Dawkins
 
 **WebMaster:** Timothy R. Cargan
