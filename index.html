@@ -4,17 +4,22 @@ layout: default
 
 <div class="home">
 
-  <h1>Posts</h1>
+  <h1> Welcome </h1>
+  <p> Radio UNIS is the official radio program of the United Nations International School.  The broadcasts are produced by UNIS high school students. Each broadcast includes an introduction, a segment of announcements and news from the UNIS Tut House, and a rotating segment which will usually be an interview or discussion. As of now the shows are broadcasted over the internet and can be found on YouTube and SoundCloud.
+ </p>
+  <hr>
+
+  <h1>Shows</h1>
 
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="show-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span class="small"> - {{ post.date | date_to_string }}</span></a>
+        <p> Here is where the show description will go </p>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <a href="test"> test </a>
 
 </div>
