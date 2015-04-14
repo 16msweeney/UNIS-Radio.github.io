@@ -1,2 +1,7 @@
 #4C8EB9 Main color
 #6fa4c7 Button highlight Color
+
+
+Usefull External Commands:
+
+Generate a web server in the folder currently CDd into :     python -m SimpleHTTPServer 8000 
