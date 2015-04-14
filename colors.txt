@@ -5,3 +5,7 @@
 Usefull External Commands:
 
 Generate a web server in the folder currently CDd into :     python -m SimpleHTTPServer 8000 
+
+Useful Websites: 
+
+http://www.color-hex.com/color/4c8eb9
