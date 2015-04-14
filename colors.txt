@@ -1,0 +1,2 @@
+#4C8EB9 Main color
+#6fa4c7 Button highlight Color
