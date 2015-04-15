@@ -4,7 +4,9 @@
 
 Usefull External Commands:
 
-Generate a web server in the folder currently CDd into :     python -m SimpleHTTPServer 8000 
+Generate a web server in the folder currently CDd into :    
+
+ python -m SimpleHTTPServer 8080 
 
 Useful Websites: 
 
