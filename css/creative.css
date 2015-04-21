@@ -15,7 +15,7 @@ body {
 }
 
 hr {
-    max-width: 50px;
+    max-width: 40px;
     border-color: #4C8EB9;
     border-width: 3px;
 }
@@ -88,7 +88,7 @@ aside {
 .navbar-default .navbar-header .navbar-brand {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 450;
     color: #4C8EB9;
 }
 
@@ -101,7 +101,7 @@ aside {
 .navbar-default .nav>li>a:focus {
     text-transform: uppercase;
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 450;
     color: #222;
 }
 
@@ -152,7 +152,7 @@ aside {
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
-        font-size: 14px;
+        font-size: 20px;
         color: #4C8EB9;
     }
 
